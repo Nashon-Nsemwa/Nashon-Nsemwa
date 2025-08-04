@@ -1,73 +1,50 @@
+# 👋 Hi, I'm Nashon Nsemwa
 
-# Hi there 👋, I'm Nashon Nsemwa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nashon--Nsemwa-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nashon-Nsemwa)
+[![Instagram](https://img.shields.io/badge/Instagram-@n.shon_-e4405f?logo=instagram&logoColor=white)](https://www.instagram.com/n.shon_)
+[![GitHub](https://img.shields.io/badge/GitHub-Nashon--Nsemwa-black?logo=github&logoColor=white)](https://github.com/Nashon-Nsemwa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nshon.dev-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-e4405f?logo=instagram&logoColor=white)](https://www.instagram.com/n.shon_)
-[![GitHub](https://img.shields.io/badge/GitHub-Nshon.dev-black?logo=github&logoColor=white)](https://github.com/Nashon-Nsemwa)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-I'm a passionate **Flutter developer** with a love for web and backend technologies. Currently advancing my Computer Science studies (2022-2025) and always excited to learn and build cool stuff.
+🎓 CS Student (2022–2025) | 💻 Flutter Developer | 🔧 Backend & Web Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- Intermediate developer with a knack for **Flutter mobile & web apps** and backend systems.
-- Skilled in multiple languages: Dart, Python, Java, C++, JavaScript, PHP.
-- Fluent with databases: MySQL, NoSQL (Firestore), and backend scripting.
-- Tech enthusiast who adapts quickly and loves exploring new frameworks.
-- Final year project: **QR Attend** — a smart attendance system using QR codes and GPS validation.
+I'm an Intermidiet Software dev focused on building smart, scalable apps. I specialize in **Flutter** (Mobile/Web), love backend work, and currently learning Django.  
+My final year project: **QR Attend** – an attendance system using dynamic QR codes, GPS & real-time validation care to take a peak in my repo🙂.
 
 ---
 
-## 💻 Skills & Technologies
+## 🛠️ Tech Stack
 
-| Languages           | Frameworks & Tools        | Databases         |
-|---------------------|---------------------------|-------------------|
-| Dart (Flutter)      | Flutter (mobile & web)    | MySQL             |
-| Python              | Django (learning)          | Firestore (NoSQL) |
-| Java                | Firebase (Auth, FCM)       | MongoDB           |
-| C++                 | Git & GitHub               |                   |
-| JavaScript, HTML, CSS |                           |                   |
-| PHP                 |                           |                   |
+- **Languages:** Dart, Python, Java, C++, JavaScript, PHP, Html,CSS
+- **Frameworks:** Flutter, Firebase, Git, Django (learning)  
+- **Databases:** Firestore, MySQL, MongoDB  
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Learning & Growing
 
-- Django Framework & backend web development  
-- Advanced Flutter integrations & state management  
-- Cloud deployment and CI/CD pipelines  
-
----
-
-## 🎯 Hobbies & Interests
-
-- Watching anime, movies, and animations 🎬  
-- Exploring new tech & programming challenges 💡  
-- A curious learner always eager to dive into new topics 📚  
-- Enjoy collaborating, mentoring, and sharing knowledge 🤝  
+- Full-stack Mobile dev with Django  
+- Advanced Firebase + Flutter integrations  
+- Real-world deployment workflows
 
 ---
 
-## 📫 How to reach me
+## 🎯 Interests
 
-Feel free to connect or say hi! I love meeting fellow developers and enthusiasts.  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Instagram](https://www.instagram.com/yourhandle) | [Twitter](https://twitter.com/yourhandle)
+- Anime & animated films 🎥  
+- Tech exploration, fast learning ⚡  
+- Solving real-world problems through code 💡
+
+---
+
+## 📬 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/Nashon-Nsemwa) • [Instagram](https://www.instagram.com/n.shon_) • [GitHub](https://github.com/Nashon-Nsemwa)
 
 ---
 
-## ⚡ Fun Fact
-
-- I thrive on curiosity and problem-solving  
-- Believe in continuous learning and building practical projects  
-- Open to exciting opportunities and collaborations 🚀  
-
----
+> 🚀 “Code. Learn. Repeat.”
 
 Thanks for stopping by! 🚀✨
-
-<!--
-Customize your social links above with your actual usernames/URLs.
-You can add cool GIFs or profile pictures too for more personality.
--->
