@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an Intermidiet Software dev focused on building smart, scalable apps. I specialize in **Flutter** (Mobile/Web), love backend work, and currently learning Django.  
+I'm a Software dev focused on building smart, scalable apps. I specialize in **Flutter** (Mobile/Web), love backend work, and currently learning Django.  
 My final year project: **QR Attend** – an attendance system using dynamic QR codes, GPS & real-time validation care to take a peak in my repo🙂.
 
 ---
