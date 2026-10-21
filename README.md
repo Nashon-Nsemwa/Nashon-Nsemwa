@@ -23,7 +23,7 @@ My final year project: **QR Attend** – an attendance system using dynamic QR c
 - **Languages:** Dart, JavaScript, Python, Java, C++, PHP, HTML, CSS  
 - **Mobile Development:** Flutter  
 - **Frontend/Web:** Next.js  
-- **Backend & APIs:** Node.js, FastAPI, Firebase (Firestore, Realtime DB, Cloud Functions), REST APIs  
+- **Backend & APIs:** Node.js, FastAPI,Java Spring Boot,Firebase (Firestore, Realtime DB, Cloud Functions), REST APIs  
 - **Databases & Caching:** PostgreSQL, MySQL, Firestore, Redis  
 - **Payments:** In-app payment integration, transaction handling  
 - **Tools & Workflow:** Git, GitHub, GitHub Actions, Docker (basic), Android Studio, VS Code  
